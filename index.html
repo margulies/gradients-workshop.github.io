@@ -187,12 +187,8 @@
 </br>
 </section>
 	
-<form
-				method="POST"
-				action="https://script.google.com/macros/s/AKfycbymg7hFeO1X0fY_F7JXmBIM_rbvjmU7jFj7dxsRYGyDMnNChFK4QpDSBq8oA0-cNgA/exec"
-			  >
-				<input type="hidden" name="kind" value="registration" />
-			
+<form id="registration-form">
+				
 				<label>
 				  Name
 				  <input type="text" name="name" required />
@@ -223,7 +219,38 @@
 				</label>
 			
 				<button type="submit">Continue to payment</button>
-			  </form>
-	
+			  </form>	
+	<script>
+  const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbymg7hFeO1X0fY_F7JXmBIM_rbvjmU7jFj7dxsRYGyDMnNChFK4QpDSBq8oA0-cNgA/exec';
+
+  document.getElementById('registration-form')
+    .addEventListener('submit', async function (e) {
+      e.preventDefault(); // stop the normal form submit
+
+      const form = e.target;
+      const formData = new FormData(form);
+      formData.append('kind', 'registration'); // tell Apps Script which handler to use
+
+      try {
+        const resp = await fetch(WEB_APP_URL, {
+          method: 'POST',
+          body: formData
+        });
+
+        const data = await resp.json();
+
+        if (data.ok && data.paymentUrl) {
+          // Redirect from *your* page – no sandbox, works reliably
+          window.location.href = data.paymentUrl;
+        } else {
+          alert('Something went wrong – please try again.');
+          console.error('Unexpected response', data);
+        }
+      } catch (err) {
+        console.error('Error submitting registration', err);
+        alert('There was a problem submitting your registration. Please try again.');
+      }
+    });
+</script>
 </body>
 </html>
