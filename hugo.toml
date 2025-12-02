@@ -79,6 +79,12 @@ enableEmoji = true
   #      icon = "fa fa-envelope"
 
     [[params.contacts]]
+        label = "gradients email list"
+        value = "groups.google.com/g/gradients"
+        url = "https://groups.google.com/g/gradients"
+        icon = "fa fa-envelope"
+
+    [[params.contacts]]
         label = "Bluesky"
         value = "@gradientsworkshop.bsky.social"
         url = "https://bsky.app/profile/gradientsworkshop.bsky.social"
