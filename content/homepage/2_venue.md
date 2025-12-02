@@ -16,14 +16,14 @@ Three types of accomodations are available:
 ##### 1. Indoor rooms
 *Limited to 70 participants*  
 
-![Room](/images/chateau_room.jpg)
+![Room](images/chateau_room.jpg)
 
 The image above is an example room in the château. Indoor rooms are available in three different buildings distributed around the center of the property. Some of the rooms have more than one bed. If you would like to share a room with someone specific, please indicate when registering. 
 
 ##### 2. Glamping tents
 *Limited to 50 participants*  
 
-![Room](/images/chateau_glamping.jpg)
+![Room](images/chateau_glamping.jpg)
 
 Several *glamping* (glamorous camping) beds are available. Each tent has four luxurious beds. If you would like to room with specific attendess, please be sure to include that information when registering. 
 
