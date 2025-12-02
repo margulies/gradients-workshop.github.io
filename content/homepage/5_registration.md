@@ -4,10 +4,12 @@ weight: 15
 header_menu: true
 ---
 
-Early-bird registration closes **January 31, 2026**  
-Use the code `EARLYBIRD26` at checkout for a **50€ discount**  
+Early-bird registration closes **January 31<sup>st</sup>, 2026**  
+Use the code **`EARLYBIRD26`** at checkout for a **50€ discount**  
 
-Final registration deadline: XX   
+**Final registration deadline: April 30<sup>th</sup>, 2026**  
+
+---
 
 <div class="tt-widget">
   <div class="tt-widget-fallback">
@@ -25,6 +27,8 @@ Final registration deadline: XX
   </script>
 </div>
 
+---
+
 ##### A note on registration fees
 
 The registration fees are higher that usual this year and are set to reflect the actual costs of running the retreat. They include venue hire, accommodation, catering, and local arrival transportation. Château rooms and glamping have higher fees because they include on-site accommodations, while the commuter option covers only the workshop and food/drink. We have tried to keep the pricing as transparent and fair as possible, while ensuring that the event remains financially viable.
@@ -38,4 +42,4 @@ Following is a breakdown of the approximate costs associated with the meeting th
 
 We have aimed to keep the registration fees at cost for those registering by January 31<sup>st</sup>.  
 
-Legal note: The amount requested is a cost-sharing contribution intended solely to cover part of the expenses of organizing the event. It is not a ticket price and is not subject to VAT, in accordance with the rules applicable to French non-profit associations. A reduced cost-sharing contribution is offered for early registration. This helps the association confirm participant numbers in advance and organize the event efficiently. It is not a commercial discount but an administrative facilitation for planning purposes.  
+**Legal note:** The amount requested is a cost-sharing contribution intended solely to cover part of the expenses of organizing the event. It is not a ticket price and is not subject to VAT, in accordance with the rules applicable to French non-profit associations. A reduced cost-sharing contribution is offered for early registration. This helps the association confirm participant numbers in advance and organize the event efficiently. It is not a commercial discount but an administrative facilitation for planning purposes.  

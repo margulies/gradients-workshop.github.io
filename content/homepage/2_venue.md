@@ -23,7 +23,7 @@ Three types of accomodations are available:
 
 ![Room](images/chateau_room.jpg)
 
-The image above is an example room in the château. Indoor rooms are available in three different buildings distributed around the center of the property. Some of the rooms have more than one bed. If you would like to share a room with someone specific, please indicate when registering. 
+The image above is an example room in the château. Indoor beds are available in three different buildings distributed around the center of the property. Some of the rooms have more than one bed. If you would like to share a room with someone specific, please indicate when registering. 
 
 ##### 2. Glamping tents
 *Limited to 50 participants*  
@@ -35,16 +35,16 @@ Several *glamping* (glamorous camping) beds are available. Each tent has four lu
 ##### 3. No accomodations
 *Limited to 80 participants*  
 
-You are welcome to camp onsite or to commute from a hotel in the area. 
+You are welcome to camp onsite or to commute from a hotel in the area.  
   
 ---
 
 #### Catering
 
-All meals and coffee/tea breaks will be provided. [MORE] 
+All meals, coffee/tea breaks, and evening alcoholic and non-alcoholic drinks will be provided.    
 
 ---
 
 #### Costumes
 
-Costumes will be available throughout the duration of the event
+Costumes will be available throughout the duration of the event.  
