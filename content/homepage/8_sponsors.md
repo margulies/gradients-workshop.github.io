@@ -26,4 +26,4 @@ Saurabh Sonkusare (University of Queensland)
 
 ## Sponsors  
 
-![logo](images/logos/1soc.png) ![logo](images/logos/2hiball.jpeg) ![logo](images/logos/3erc.png) ![logo](images/logos/4CNIR_logo.jpeg) ![logo](images/logos/5cambridge_logo.jpeg) ![logo](images/logos/6qbin.jpg) ![logo](images/logos/7neural.png)  
+[![logo](images/logos/1soc.png)](https://cognition.maxplanckschools.org/en) ![logo](images/logos/2hiball.jpeg) ![logo](images/logos/3erc.png) ![logo](images/logos/4CNIR_logo.jpeg) ![logo](images/logos/5cambridge_logo.jpeg) ![logo](images/logos/6qbin.jpg) [![logo](images/logos/7neural.png)](https://storage.googleapis.com/bcblabweb/home-neural.html)  
