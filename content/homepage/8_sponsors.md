@@ -27,5 +27,4 @@ Saurabh Sonkusare MD PhD (University of Queensland)
 
 ## Sponsors  
 
-[logos]
-[Also include neuroscience alliance]
+![logo](/images/logos/1soc.png) ![logo](/images/logos/2hiball.jpeg) ![logo](/images/logos/3erc.png) ![logo](/images/logos/4CNIR_logo.jpeg) ![logo](/images/logos/5cambridge_logo.jpeg) ![logo](/images/logos/6qbin.jpg) ![logo](/images/logos/7neural.png)  
