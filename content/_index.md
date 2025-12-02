@@ -16,5 +16,5 @@ header_subheadline: "Workshop Retreat at Château du Feÿ</br>June 9–11, 2026<
 # Title: name of navigation menu entry
 # Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
 nav_to_top_title: "Return To Top"
-nav_to_top_weight: last
+nav_to_top_weight: first
 ---
