@@ -6,9 +6,10 @@ header_menu: true
 The workshop will be held this year as a unique all-inclusive retreat experience at the beautiful [Château du Feÿ](https://chateaudufey.com/) in Burgundy, France.  
 
 Space will be limited this year, so we recommend registering early. 
+
 <div>
-<video playsinline="" autoplay="true" muted="" loop=""        
-    <source src="images/cover_fey.mp4" type="video/mp4">
+<video playsinline="" autoplay="true" muted="" loop=""       
+    <source src="images/cover_fey.mp4" type="video/mp4" width="700" >
 </video>
 </div>
 ---
