@@ -37,3 +37,5 @@ Following is a breakdown of the approximate costs associated with the meeting th
 - Indoor bed is 250€ per person  
 
 We have aimed to keep the registration fees at cost for those registering by January 31<sup>st</sup>.  
+
+Legal note: The amount requested is a cost-sharing contribution intended solely to cover part of the expenses of organizing the event. It is not a ticket price and is not subject to VAT, in accordance with the rules applicable to French non-profit associations. A reduced cost-sharing contribution is offered for early registration. This helps the association confirm participant numbers in advance and organize the event efficiently. It is not a commercial discount but an administrative facilitation for planning purposes.  
