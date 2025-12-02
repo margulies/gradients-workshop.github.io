@@ -72,16 +72,16 @@ enableEmoji = true
     [params.meta]
         keywords = "conference, workshop, science, brain, neuroscience, gradients, human brain mapping"
 
-    [[params.contacts]]
-        label = "email"
-        value = "mail@janedoe.com"
-        url = "mailto:mail@janedoe.com"
-        icon = "fa fa-envelope"
+  #  [[params.contacts]]
+  #      label = "email"
+  #      value = "mail@janedoe.com"
+  #      url = "mailto:mail@janedoe.com"
+  #      icon = "fa fa-envelope"
 
     [[params.contacts]]
         label = "Bluesky"
-        value = "@bluesky.UPDATE"
-        url = "@bluesky.UPDATE"
+        value = "@gradientsworkshop.bsky.social"
+        url = "https://bsky.app/profile/gradientsworkshop.bsky.social"
         icon = "fa-brands fa-bluesky"        
 
     # [[params.contacts]]
