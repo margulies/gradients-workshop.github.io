@@ -10,7 +10,7 @@ header_menu: false
 #### By car 
 Château du Feÿ is located approximately two hours from Paris. Free parking is available on site.  
 
-[Google maps link]
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3482189.6089748675!2d-1.3639529217950328!3d48.911535986312224!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47efa9c720d344e3%3A0xfad62ced3cee2e56!2zQ2hhzIJ0ZWF1IGR1IEZlecyI!5e0!3m2!1sen!2suk!4v1764694807022!5m2!1sen!2suk" width="700" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 #### By train
 The nearest train station is `Joigny`.  
@@ -33,5 +33,5 @@ For those organizing their own travel after the retreat, same instructions as ab
 
 #### Bordeaux
 
-For those who wish to travel directly to Bordeaux after the workshop, we are organizing a charter bus. The drive will take 5-6 hours, and can be booked in advance when [registering](registration).
+For those who wish to travel directly to Bordeaux after the workshop, we are organizing a charter bus. The drive will take 5-6 hours, and can be booked in advance when [registering](#registration).
 
