@@ -2,9 +2,4 @@ public/
 .DS_Store
 .hugo_build.lock
 resources/
-.DS_Store
-.hugo_build.lock
-resources/
-.DS_Store
-.hugo_build.lock
-resources/
+assets/.DS_Store
