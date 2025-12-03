@@ -50,4 +50,4 @@ All meals, coffee/tea breaks, and evening alcoholic and non-alcoholic drinks wil
 
 #### Costumes
 
-Costumes will be available throughout the duration of the event.  
+Throughout the duration of the retreat, should costumes be required, they will all be available free of charge. An all-you-can-wear buffet awaits.   
