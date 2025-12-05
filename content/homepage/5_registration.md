@@ -35,7 +35,7 @@ The registration fees are higher that usual this year and are set to reflect the
 
 Following is a breakdown of the approximate costs associated with the meeting this year:  
 
-- General venue rental is approximately 50€ per person  
+- General venue rental and transport from the Joigny train station is approximately 75€ per person  
 - Catering for two days, including all meals, coffee/tea breaks, and evening drinks is approximately 250€ per person   
 - Glamping per bed is 100€ per person  
 - Indoor bed is 250€ per person  
