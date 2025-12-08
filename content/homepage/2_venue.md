@@ -11,7 +11,7 @@ The workshop will be held this year as a unique all-inclusive retreat experience
 
 <div>
 <video playsinline="" autoplay="true" muted="" loop=""       
-    <source src="images/cover_fey.mp4" type="video/mp4" width="700" >
+    <source src="images/cover_fey.mp4" type="video/mp4" width="100%" >
 </video>
 </div>
 

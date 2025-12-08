@@ -5,7 +5,7 @@ header_menu: false
 ---
 ---  
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3482189.6089748675!2d-1.3639529217950328!3d48.911535986312224!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47efa9c720d344e3%3A0xfad62ced3cee2e56!2zQ2hhzIJ0ZWF1IGR1IEZlecyI!5e0!3m2!1sen!2suk!4v1764694807022!5m2!1sen!2suk" width="700" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3482189.6089748675!2d-1.3639529217950328!3d48.911535986312224!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47efa9c720d344e3%3A0xfad62ced3cee2e56!2zQ2hhzIJ0ZWF1IGR1IEZlecyI!5e0!3m2!1sen!2suk!4v1764694807022!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
