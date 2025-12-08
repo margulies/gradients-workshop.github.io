@@ -72,11 +72,11 @@ enableEmoji = true
     [params.meta]
         keywords = "conference, workshop, science, brain, neuroscience, gradients, human brain mapping"
 
-  #  [[params.contacts]]
-  #      label = "email"
-  #      value = "mail@janedoe.com"
-  #      url = "mailto:mail@janedoe.com"
-  #      icon = "fa fa-envelope"
+    [[params.contacts]]
+        label = "email"
+        value = "gradientsconf@gmail.com"
+        url = "mailto:gradientsconf@gmail.com"
+        icon = "fa fa-envelope"
 
     [[params.contacts]]
         label = "gradients email list"
