@@ -5,7 +5,7 @@ header_menu: true
 ---
 
 Early-bird registration closes **January 31<sup>st</sup>, 2026**  
-Use the code **`EARLYBIRD26`** at checkout for a **50€ discount**  
+Register by then for a **50€ discount**  
 
 **Final registration deadline: April 30<sup>th</sup>, 2026**  
 
