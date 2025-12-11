@@ -7,20 +7,22 @@ weight: 50
 
 ## Organizing committee   
 
+Boris Bernhardt (McGill University, Canada)  
+Richard Bethlehem (University of Cambridge, UK)  
+Elizabeth Jefferies (University of York, UK)  
 Seok-Jun Hong (Sungkyunkwan University, Korea)  
+Sara Larivière (Université de Sherbrooke, Canada)  
+Robert Leech (Kings College London, UK)  
+Daniel Margulies (University of Oxford & CNRS)  
+Casey Paquola (INM-7, Forschungszentrum Jülich, Germany)  
 Bo-yong Park (Korea University, Korea)  
 Jessica Royer (Max Planck Inst for Human Cognitive and Brain Sciences)  
-Sara Larivière (Université de Sherbrooke, Canada)  
-Richard Bethlehem (University of Cambridge, UK)  
-Tamara Vanderwal (Universtiy of British Columbia)  
-Casey Paquola (INM-7, Forschungszentrum Julich, Germany)  
-Boris Bernhardt (McGill University, Canada)  
-Elizabeth Jefferies (University of York, UK)  
-Robert Leech (Kings College London, UK)  
-Daniel Margulies (CNRS, France)  
+Ted Satterthwaite (University of Pennsylvania)  
+Saurabh Sonkusare (University of Queensland)  
+Valerie Sydnor (University of Pittsburgh)  
 Sofie Valk (Max Planck Inst for Human Cognitive and Brain Sciences)  
 Johan van der Meer (Queensland University of Technology)  
-Saurabh Sonkusare (University of Queensland)  
+Tamara Vanderwal (Universtiy of British Columbia)  
 
 ---
 
