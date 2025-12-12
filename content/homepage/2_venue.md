@@ -51,3 +51,7 @@ All meals, coffee/tea breaks, and evening alcoholic and non-alcoholic drinks wil
 #### Costumes
 
 Throughout the duration of the retreat, should costumes be required, they will all be available free of charge. An all-you-can-wear buffet awaits.   
+
+---
+
+![chateau_back](images/chateau_back_view.jpg)
