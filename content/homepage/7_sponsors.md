@@ -12,7 +12,7 @@ Richard Bethlehem (University of Cambridge, UK)
 Elizabeth Jefferies (University of York, UK)  
 Seok-Jun Hong (Sungkyunkwan University, Korea)  
 Sara Larivière (Université de Sherbrooke, Canada)  
-Robert Leech (Kings College London, UK)  
+Robert Leech (King's College London, UK)  
 Daniel Margulies (University of Oxford & CNRS)  
 Casey Paquola (INM-7, Forschungszentrum Jülich, Germany)  
 Bo-yong Park (Korea University, Korea)  
@@ -22,7 +22,7 @@ Saurabh Sonkusare (University of Queensland)
 Valerie Sydnor (University of Pittsburgh)  
 Sofie Valk (Max Planck Inst for Human Cognitive and Brain Sciences)  
 Johan van der Meer (Queensland University of Technology)  
-Tamara Vanderwal (Universtiy of British Columbia)  
+Tamara Vanderwal (University of British Columbia)  
 
 ---
 
